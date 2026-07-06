@@ -65,4 +65,3 @@ This project analyzes customer retention and customer behavior using the Sample 
 - future_ds_02.pbix
 - task2_report.docx
 - ppbi_task2.png
--   
