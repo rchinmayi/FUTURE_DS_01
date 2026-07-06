@@ -41,3 +41,28 @@ This project analyzes the Sample Superstore dataset using Microsoft Power BI. Th
 - Superstore Sales Analysis Report.docx
 - Dashboard Screenshot.png
 - Sample - Superstore.xlsx
+
+---
+
+# Task 2 - Customer Retention & Churn Analysis Dashboard
+
+## Description
+This project analyzes customer retention and customer behavior using the Sample Superstore dataset in Microsoft Power BI.
+
+## Dashboard Features
+- Total Customers KPI
+- Total Orders KPI
+- Repeat Customers KPI
+- Customer Retention Rate KPI
+- Customers by Segment
+- Customer Trend Over Time
+- Top 10 Customers by Sales
+- Customers by Region
+- Sales by Category
+- Interactive Filters (Region, Segment, Order Date)
+
+## Repository Contents
+- future_ds_02.pbix
+- task2_report.docx
+- ppbi_task2.png
+-   
