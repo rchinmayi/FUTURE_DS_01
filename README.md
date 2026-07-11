@@ -65,3 +65,20 @@ This project analyzes customer retention and customer behavior using the Sample 
 - future_ds_02.pbix
 - task2_report.docx
 - ppbi_task2.png
+
+- ---
+
+# Task 3 - Marketing Lead Funnel Analysis Dashboard
+
+## Description
+Developed an interactive Power BI dashboard to analyze marketing funnel performance, conversion rates, and campaign effectiveness using the Bank Marketing dataset.
+
+## Files
+- bank.csv
+- future_ds_03.pbix
+- Task3_Report.docx
+- ppbi_task3.png
+
+## Tools Used
+- Microsoft Power BI
+- Microsoft Excel / CSV
